@@ -1,0 +1,14 @@
+package com.solution;
+
+public class Results {
+
+	public int[] solution(int A[] , int N, int K) {
+		
+	}
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

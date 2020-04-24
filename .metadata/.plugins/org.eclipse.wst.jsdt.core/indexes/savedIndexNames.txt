@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/Users/ruizheng/Desktop/Marlabs/Assessment/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+1209999433.index
+316047743.index
+3194160973.index
+3073176543.index
+1228806734.index
+2608098960.index

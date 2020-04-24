@@ -1,0 +1,13 @@
+package com.solution;
+
+public class permutation {
+
+	public int solution (int[] A, int N) {
+		
+	}
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
